@@ -1,0 +1,32 @@
+# Progress
+[ ] foundations
+    - [ ] intro-to-css
+        - [ ] 01-css-methods
+        - [ ] 02-class-id-selectors
+        - [ ] 03-grouping-selectors
+        - [ ] 04-chaining-selectors
+        - [ ] 05-descendant-combinator
+    - [ ] block-and-inline
+        - [ ] 01-margin-and-padding-1
+        - [ ] 02-margin-and-padding-2
+    - [ ] cascade
+        - [ ] 01-cascade-fix
+    - [ ] flex
+        - [ ] 01-flex-center
+        - [ ] 02-flex-header
+        - [ ] 03-flex-header-2
+        - [ ] 04-flex-information
+        - [ ] 05-flex-modal
+        - [ ] 06-flex-layout
+        - [ ] 07-flex-layout-2
+- [ ] intermediate-html-css
+    - [ ] advanced-grid
+        - [ ] 01-responsive-holy-grail
+        - [ ] 02-holy-grail-mockup
+    - [ ] positioning-grid
+        - [ ] 01-basic-holy-grail
+- [ ] advanced-html-css
+    - [ ] animation
+        - [ ] 01-button-hover
+        - [ ] 02-pop-up
+        - [ ] 03-dropdown-menu
