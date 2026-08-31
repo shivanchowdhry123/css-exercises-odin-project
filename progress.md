@@ -1,5 +1,5 @@
 # Progress
-[ ] foundations
+- [ ] foundations
     - [ ] intro-to-css
         - [x] 01-css-methods
         - [ ] 02-class-id-selectors
