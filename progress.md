@@ -2,8 +2,8 @@
 - [ ] foundations
     - [ ] intro-to-css
         - [x] 01-css-methods
-        - [ ] 02-class-id-selectors
-        - [ ] 03-grouping-selectors
+        - [x] 02-class-id-selectors
+        - [x] 03-grouping-selectors
         - [ ] 04-chaining-selectors
         - [ ] 05-descendant-combinator
     - [ ] block-and-inline
