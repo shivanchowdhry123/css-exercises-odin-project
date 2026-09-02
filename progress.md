@@ -4,7 +4,7 @@
         - [x] 01-css-methods
         - [x] 02-class-id-selectors
         - [x] 03-grouping-selectors
-        - [ ] 04-chaining-selectors
+        - [x] 04-chaining-selectors
         - [ ] 05-descendant-combinator
     - [ ] block-and-inline
         - [ ] 01-margin-and-padding-1
