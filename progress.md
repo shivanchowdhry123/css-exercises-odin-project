@@ -9,8 +9,8 @@
     - [ ] block-and-inline
         - [ ] 01-margin-and-padding-1
         - [ ] 02-margin-and-padding-2
-    - [ ] cascade
-        - [ ] 01-cascade-fix
+    - [x] cascade
+        - [x] 01-cascade-fix
     - [ ] flex
         - [ ] 01-flex-center
         - [ ] 02-flex-header
