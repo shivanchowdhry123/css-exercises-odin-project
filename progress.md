@@ -6,9 +6,9 @@
         - [x] 03-grouping-selectors
         - [x] 04-chaining-selectors
         - [x] 05-descendant-combinator
-    - [ ] block-and-inline
-        - [ ] 01-margin-and-padding-1
-        - [ ] 02-margin-and-padding-2
+    - [x] block-and-inline
+        - [x] 01-margin-and-padding-1
+        - [x] 02-margin-and-padding-2
     - [x] cascade
         - [x] 01-cascade-fix
     - [ ] flex
