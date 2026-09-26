@@ -8,6 +8,11 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  font-weight: bold;
 }
 
 .footer {
@@ -20,10 +25,23 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding-left: 20px;
 }
 
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  width: 200px;
+}
+
+.content-container {
+  display: flex;
+}
+
+.cards {
+  display: flex;
 }
