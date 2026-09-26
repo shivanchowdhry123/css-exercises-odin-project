@@ -1,5 +1,5 @@
 # Progress
-- [ ] foundations
+- [x] foundations
     - [x] intro-to-css
         - [x] 01-css-methods
         - [x] 02-class-id-selectors
@@ -11,14 +11,14 @@
         - [x] 02-margin-and-padding-2
     - [x] cascade
         - [x] 01-cascade-fix
-    - [ ] flex
-        - [ ] 01-flex-center
-        - [ ] 02-flex-header
-        - [ ] 03-flex-header-2
-        - [ ] 04-flex-information
-        - [ ] 05-flex-modal
-        - [ ] 06-flex-layout
-        - [ ] 07-flex-layout-2
+    - [x] flex
+        - [x] 01-flex-center
+        - [x] 02-flex-header
+        - [x] 03-flex-header-2
+        - [x] 04-flex-information
+        - [x] 05-flex-modal
+        - [x] 06-flex-layout
+        - [x] 07-flex-layout-2
 - [ ] intermediate-html-css
     - [ ] advanced-grid
         - [ ] 01-responsive-holy-grail
